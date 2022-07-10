@@ -1,6 +1,6 @@
 # Farmmatic
-A Crop Prediction Model.
-Predicting the type of crop most suitable for that region based on a number of environmental and climatic factors. 
+A Crop Prediction Model- predicting the type of crop most suitable for that region based on a number of environmental and climatic factors. 
+
 CROP PREDICTION PROCEDURE
 1.Algorithm (The model used for prediction is Random Forest). It was found to be the most accurate. 
 2.Random Forest algorithm –
